@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+~$*.xlsx
+~$*.docx
+*.tmp
+.ipynb_checkpoints/
+02_reporte_mensual_energia/salida/*.png
+fichas/*.docx
+
+# (23-nov) fichas/ queda fuera del repo publico: el generador y los PDF llevan RUC y telefono
+fichas/
